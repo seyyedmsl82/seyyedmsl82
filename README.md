@@ -10,25 +10,15 @@ I'm eager to connect and explore how we can work together to shape the future of
 ## About My Projects
 In my journey through various projects, I've had the opportunity to delve into a diverse range of exciting ventures:
 
-1. **Autoencoder Magic:** Bringing the world of autoencoders to life with a hands-on implementation. 💻✨
+1. **U-Net Palette:** Adding color to the canvas through image colorization using the powerful U-Net architecture. 🎨📸
 
-2. **Depth Estimation Explorer:** Currently, I'm delving into the fascinating realm of depth estimation, working on pushing the boundaries. 🌐🚀
+2. **Deep Fake Wizardry:** Exploring the intriguing world of deep fakes and their creative applications. 🤖🎭
 
-3. **U-Net Palette:** Adding color to the canvas through image colorization using the powerful U-Net architecture. 🎨📸
+3. **Stylish Neural Art:** Experimenting with Neural Style Transfer using both TensorFlow and PyTorch to create visually captivating results. 🎨✨
 
-4. **Deep Fake Wizardry:** Exploring the intriguing world of deep fakes and their creative applications. 🤖🎭
+4. **GAN Reloaded:** Retraining a Deep Convolutional GAN on Cifar10 dataset for enhanced performance. 🔄🎨
 
-5. **Super Resolution Maven:** Crafting high-resolution wonders in the realm of super resolution, a work in progress. 🌈🔍
-
-6. **Stylish Neural Art:** Experimenting with Neural Style Transfer using both TensorFlow and PyTorch to create visually captivating results. 🎨✨
-
-7. **GAN Reloaded:** Retraining a Deep Convolutional GAN on the challenging Cifar10 dataset for enhanced performance. 🔄🎨
-
-8. **Face and Eye Magic:** Developing robust systems for face and eye recognition using cascades. 👀👤
-
-9. **Street Lines Whisperer:** Unveiling the secrets of street lines identification using OpenCV. 🛣️🕵️
-
-10. **Medical Marvels:** Engaged in the supervised layerwise training of deep CNNs for the classification of medical images, contributing to advancements in healthcare. 🏥💡
+5. **Medical Marvels:** Engaged in the supervised layerwise training of deep CNNs for the classification of medical images, contributing to advancements in healthcare. 🏥💡
 
 Each project is a unique journey, a testament to my commitment to exploring the frontiers of technology and making a tangible impact. Looking forward to discussing these exciting endeavors with you! 🚀✨
 
