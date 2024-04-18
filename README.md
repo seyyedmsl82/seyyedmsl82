@@ -4,23 +4,7 @@ I'm a **computer vision enthusiast** with a real passion for what I do. I'm on t
 
 During my academic journey, I've been known for my **collaborative spirit**, **adaptability**, and knack for **problem-solving**. These qualities haven't just helped me push boundaries in the field but have also allowed me to build strong connections with fellow professionals who, like me, are dedicated to driving **innovation**.
 
-I'm eager to connect and explore how we can work together to shape the future of **computer vision** and **AI**. Let's chat and see where our collective enthusiasm can take us! Looking forward to it! 😊✨
-
-
-## About My Projects
-In my journey through various projects, I've had the opportunity to delve into a diverse range of exciting ventures:
-
-1. **U-Net Palette:** Adding color to the canvas through image colorization using the powerful U-Net architecture. 🎨📸
-
-2. **Deep Fake Wizardry:** Exploring the intriguing world of deep fakes and their creative applications. 🤖🎭
-
-3. **Stylish Neural Art:** Experimenting with Neural Style Transfer using both TensorFlow and PyTorch to create visually captivating results. 🎨✨
-
-4. **GAN Reloaded:** Retraining a Deep Convolutional GAN on Cifar10 dataset for enhanced performance. 🔄🎨
-
-5. **Medical Marvels:** Engaged in the supervised layerwise training of deep CNNs for the classification of medical images, contributing to advancements in healthcare. 🏥💡
-
-Each project is a unique journey, a testament to my commitment to exploring the frontiers of technology and making a tangible impact. Looking forward to discussing these exciting endeavors with you! 🚀✨
+Each project of mine is a unique journey, a testament to my commitment to exploring the frontiers of technology and making a tangible impact. Looking forward to discussing these exciting endeavors with you! 🚀✨
 
 ## 🛠️ Skills
 
@@ -28,16 +12,18 @@ Each project is a unique journey, a testament to my commitment to exploring the 
 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Database
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -48,7 +34,7 @@ Each project is a unique journey, a testament to my commitment to exploring the 
 
 ### Other
 ![git](https://img.shields.io/badge/Git-DC322F?style=for-the-badge&logo=Git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-218604?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## 🔗 Links
