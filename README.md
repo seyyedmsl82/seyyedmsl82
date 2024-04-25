@@ -6,7 +6,7 @@ Each project of mine is a unique journey, a testament to my commitment to explor
 
 Looking forward to discussing these exciting endeavors with you! 🚀✨
 
-You can find me at [Linked in](https://www.linkedin.com/in/seyyedreza-moslemi/)
+You can find me at [Linked in](https://www.linkedin.com/in/seyyedreza-moslemi/) and connect me via [gmail](mailto:https://seyyed.msl82@gmail.com)
 
 ## 🛠️ Skills
 
@@ -32,9 +32,7 @@ You can find me at [Linked in](https://www.linkedin.com/in/seyyedreza-moslemi/)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
