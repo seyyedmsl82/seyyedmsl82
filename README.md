@@ -2,9 +2,11 @@
 
 I'm a **computer vision enthusiast** with a real passion for what I do. I'm on the lookout for exciting opportunities where I can bring my skills to the table and help create cutting-edge solutions for **computer vision** and visual recognition systems. I'm all about making a **positive impact** in the world of artificial intelligence.
 
-During my academic journey, I've been known for my **collaborative spirit**, **adaptability**, and knack for **problem-solving**. These qualities haven't just helped me push boundaries in the field but have also allowed me to build strong connections with fellow professionals who, like me, are dedicated to driving **innovation**.
+Each project of mine is a unique journey, a testament to my commitment to exploring the frontiers of technology and making an impact. 
 
-Each project of mine is a unique journey, a testament to my commitment to exploring the frontiers of technology and making a tangible impact. Looking forward to discussing these exciting endeavors with you! 🚀✨
+Looking forward to discussing these exciting endeavors with you! 🚀✨
+
+You can find me at [Linked in](https://www.linkedin.com/in/seyyedreza-moslemi/)
 
 ## 🛠️ Skills
 
