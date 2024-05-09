@@ -1,6 +1,6 @@
 # Hi there! 👋 This is Seyyed Reza.
 
-I'm a **computer vision enthusiast** with a real passion for what I do. I'm on the lookout for exciting opportunities where I can bring my skills to the table and hellp create cutting-edge solutions for **computer vision** and visual recognition systems. I'm all about making a **positive impact** in the world of artificial intelligence.
+I'm a **computer vision enthusiast** with a real passion for what I do. I'm on the lookout for exciting opportunities where I can bring my skills to the table and help create cutting-edge solutions for **computer vision** and visual recognition systems. I'm all about making a **positive impact** in the world of artificial intelligence.
 
 Each project of mine is a unique journey, a testament to my commitment to exploring the frontiers of technology and making an impact. 
 
