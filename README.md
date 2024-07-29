@@ -8,6 +8,8 @@ Looking forward to discussing these exciting endeavors with you! 🚀✨
 
 You can find me at [Linked in](https://www.linkedin.com/in/seyyedreza-moslemi/) and connect me via [gmail](mailto:https://seyyed.msl82@gmail.com)
 
+[![Seyyed Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyyedmsl82)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Skills
 
 ### Languages
