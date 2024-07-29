@@ -1,10 +1,6 @@
-# Hi there! 👋 This is Seyyed Reza.
+I'm a **computer vision** enthusiast with a genuine passion for my work, particularly in the field of **Biometrics**. I'm on the lookout for exciting opportunities where I can leverage my skills to develop cutting-edge solutions for computer vision and visual recognition systems. My focus is on creating innovative biometric systems that can significantly contribute to advancements in artificial intelligence.
 
-I'm a **computer vision enthusiast** with a real passion for what I do. I'm on the lookout for exciting opportunities where I can bring my skills to the table and help create cutting-edge solutions for **computer vision** and visual recognition systems. I'm all about making a **positive impact** in the world of artificial intelligence.
-
-Each project of mine is a unique journey, a testament to my commitment to exploring the frontiers of technology and making an impact. 
-
-Looking forward to discussing these exciting endeavors with you! 🚀✨
+I look forward to discussing these exciting endeavors with you!
 
 You can find me at [Linked in](https://www.linkedin.com/in/seyyedreza-moslemi/) and connect me via [gmail](mailto:https://seyyed.msl82@gmail.com)
 
