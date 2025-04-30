@@ -1,6 +1,3 @@
-I am a dedicated **computer vision** enthusiast with a profound passion for my work, particularly in the field of **Biometrics**. I am actively **seeking opportunities** where I can apply my skills to develop advanced solutions for computer vision and visual recognition systems. My primary focus is on creating innovative 3D reconstruction systems that can substantially contribute to advancements in artificial intelligence.
-
-I look forward to the opportunity to discuss these exciting endeavors with you.
 
 You can find me at [Linked in](https://www.linkedin.com/in/seyyedreza-moslemi/) and connect me via [gmail](mailto:https://seyyed.msl82@gmail.com)
 
